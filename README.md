@@ -3,7 +3,7 @@
 <h3>🚀The learning never ends. To infinity and beyond 🚀
 👩🏻‍💻#womenwhocode<h3>
 
-- 👨‍💻 All of my projects are available at [https://nataliasstewart-portfolio.netlify.app/](https://nataliastewart-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://nataliastewart.netlify.app/](https://nataliastewart-portfolio.netlify.app/)
 
 - 📫 How to reach me **natmirandac@gmail.com**
 
